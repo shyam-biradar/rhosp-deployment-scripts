@@ -1,0 +1,3 @@
+2017-12-15 04:28:12.618 2315 ERROR openstack [ admin admin] Could not fetch contents for file:///home/stack/trilio/trilio.yaml
+2017-12-15 05:05:59.513 5535 ERROR openstack [ admin admin] Heat Stack update failed.
+2017-12-16 03:51:37.230 17055 ERROR openstack [ admin admin] Heat Stack update failed.

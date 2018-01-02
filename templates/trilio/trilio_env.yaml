@@ -1,0 +1,2 @@
+resource_registry:
+  OS::TripleO::Services::trilio: /home/stack/shyam/templates/trilio/trilio.yaml
